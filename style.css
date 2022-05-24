@@ -1,0 +1,44 @@
+.body{
+    background-color: aqua;
+    background: url(img/background.png);
+    background-repeat: no-repeat; 
+}
+
+.titulo-principal{
+    text-align: center;
+    color: blue;
+}
+
+.subtitulo{
+    text-align: center;
+    color: black;
+    font-size:xx-large;
+}
+
+.diferenciales{
+    width: 200px;
+    margin: 0px auto;
+}
+
+
+.networks{
+    font-family: gabriola;
+    text-align: center;
+    font-weight: bold;
+    height: 200px;
+    padding: 30px;
+}
+
+.vertical{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.vertical li{
+    display: inline-block;
+}
+
+.vertical a{
+    padding: 10px;
+}
